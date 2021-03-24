@@ -1,0 +1,5 @@
+INSERT INTO tb_clients (id,name,phone,email) VALUES (1,'RAFAEL EWERTON','98877-8899','RAFAEL@HOTMAIL')
+INSERT INTO tb_clients (id,name,phone,email) VALUES (2,'JUREMA','98866-8877','JUREMA@HOTMAIL')
+INSERT INTO tb_clients (id,name,phone,email) VALUES (3,'ZEFINHA','99898-7744','ZEFINHA@HOTMAIL') 
+INSERT INTO tb_clients (id,name,phone,email) VALUES (4,'LUCAS','99888-9965','LUCAS@HOTMAIL') 
+INSERT INTO tb_clients (id,name,phone,email) VALUES (5,'ZEPITU','99887-6687','ZEPITU@HOTMAIL') 
